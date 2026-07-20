@@ -12,7 +12,7 @@ Each project folder records the source I followed and what the build taught me.
 Organized by tool, then by project:
 
 - `power-bi/`
-  - `data-professional-survey-breakdown/` — dashboard build covering cards,
+  - `data-professional-survey-breakdown/` - dashboard build covering cards,
     treemap, stacked bars, gauges, and a donut across a data-professional survey.
 
 ## Note
